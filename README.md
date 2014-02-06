@@ -2,9 +2,8 @@
 ==================
 
 First repository project on GitHub
- -This project will eventually become a coded game project that for Introduction to Programming
+ -This project will eventually become a coded game project for the "Introduction to Programming" course at Marist College.
  -I have created a simple home page for the "Adventure Game" with the following code...
--<!doctype html>
 <!--Create a simple web page for new project-->
 <!-- John Barry-->
 <html>
